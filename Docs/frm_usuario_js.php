@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="js/bootstrap.js">
+    <link rel="stylesheet" href="css/style.css">
     <title>Trabalho de Encerramento de Curso</title>
 </head>
 <body>
@@ -13,6 +13,7 @@
     <div class="container mt-3">
         <div class="row">
             <div class="col-sm-12 text-center">
+                <hr>
                 <h1>Tela de gerenciamento de usuários</h1>
             </div>
         </div>
