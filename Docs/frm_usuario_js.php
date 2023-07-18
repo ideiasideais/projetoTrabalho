@@ -9,11 +9,11 @@
     <title>Trabalho de Encerramento de Curso</title>
 </head>
 <body>
-    <?php include_once('topo.php') ?>
+    <?php include_once('cabecalho.php')?>
     <div class="container mt-3">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <hr>
+                
                 <h1>Tela de gerenciamento de usuários</h1>
             </div>
         </div>
@@ -31,18 +31,18 @@
             </div>
             <div class="row mt-3">
                 <div class="col-sm-12">
-                    <input type="text" class="form-control" name="txtNome" id="txtNome" placeholder="Nome do usuário" value="<?=$nomeUsuario?>">
+                    <input type="text" class="form-control" name="txtNome" id="txtNome" placeholder="Nome do usuário">
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-sm-4">
-                    <input type="text" class="form-control" name="txtLogin" id="txtLogin" placeholder="Login do Usuário" value="<?=$loginUsuario?>">
+                    <input type="text" class="form-control" name="txtLogin" id="txtLogin" placeholder="Login do Usuário">
                 </div>
                 <div class="col-sm-4">
-                    <input type="password" class="form-control" name="txtSenha" id="txtSenha" placeholder="Senha do Usuário" value="<?=$senhaUsuario?>">
+                    <input type="password" class="form-control" name="txtSenha" id="txtSenha" placeholder="Senha do Usuário">
                 </div>
                 <div class="col-sm-4">
-                    <input type="text" class="form-control" name="txtNascimento" id="txtNascimento" placeholder="Data Nascimento Usuário" value="<?=substr($nascimentoUsuario,0,10)?>">
+                    <input type="text" class="form-control" name="txtNascimento" id="txtNascimento" placeholder="Data Nascimento Usuário">
                 </div>
             </div>
             <div class="row mt-3">
@@ -79,7 +79,7 @@
     <script>
 
         function Pesquisar(){
-            if (document.getElementById('txtID').value == '')
+            if (document.getElementById('txtID').value == 'frmUsuario');
             {
                 alert('Preencha o ID');
                 return false;
