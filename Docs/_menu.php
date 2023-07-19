@@ -1,3 +1,4 @@
+<?php include_once('cabecalho.php')?>
 <a href="_sistema.php">
     <div class="subMenu">HOME</div>
 </a>

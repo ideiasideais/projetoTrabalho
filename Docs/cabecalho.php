@@ -1,18 +1,18 @@
  <div class="container-fluid p-1">
     <div class="col-sm-12" id="cabecalho">
         <div id="logo">
-            <div class="row">
+            <div class="row p-0">
                 <div class="col-sm-3 border border-primary border-1">
-                    foto do usuario
+                    <img src="img/imagem-login.png" alt="">
                 </div>
                 <div class="col-sm-3 border border-access border-2">
-                    mapa da regiao
+                    <img src="img/maap-regiao.png" alt="">
                 </div>
                 <div class="col-sm-3 border border-danger border-3">
-                    mapa da área
+                    <img src="img/maap-regiao.png" alt="">
                 </div>
                 <div class="col-sm-3 border border-info border-4">
-                    mapa do local de coleta
+                    <img src="img/maap-regiao.png" alt="">
                 </div>
             </div>
         </div>

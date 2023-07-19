@@ -52,8 +52,8 @@
                 <div class="col-sm-4">
                     <select name="txtStatus" id="txtStatus" class="form-control">
                         <option value="">-- Selecione um Status --</option>
-                        <option value="Ativo" <?=($statusUsuario=='Ativo'?'selected':"") ?>>Ativo</option>
-                        <option value="Inativo" <?=($statusUsuario=='Inativo'?'selected':"") ?>>Inativo</option>
+                        //<option value="Ativo" <?=($statusUsuario=='Ativo'?'selected':"") ?>>Ativo</option>
+                        <option value="Inativo" <?php?>>Inativo</option>
                     </select>
                 </div>
             </div>
