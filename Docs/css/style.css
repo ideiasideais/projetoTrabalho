@@ -1,5 +1,5 @@
 #topo{
-    height: 400px;
+    height: 300px;
     border-color: aliceblue;
     background-color: aquamarine;
     text-align: center;
@@ -8,14 +8,12 @@
     
 }
 #cabecalho{
-    height: 730px;
-    border-color: blue;
+    height: 725px;
     background-color: darkorange;
     text-align: center;
     line-height: 240px;
     font-size: 10px;
     color: aqua;
-    padding: 0px;
 
 }
 
