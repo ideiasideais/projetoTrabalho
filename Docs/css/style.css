@@ -8,12 +8,12 @@
     
 }
 #cabecalho{
-    height: 725px;
+    height: 425px;
     background-color: darkorange;
     text-align: center;
     line-height: 240px;
-    font-size: 10px;
-    color: aqua;
+    font-size: 20px;
+    color: blue;
 
 }
 

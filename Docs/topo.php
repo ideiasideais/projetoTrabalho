@@ -6,7 +6,7 @@
                 <div class="col-sm-4 bg-primary">
                     <img src="img/reciclaveis.png" alt="">
                 </div>
-                <div class="col-sm-8 bg-primary border border-3">
+                <div class="col-sm-8 bg-primary border border-1">
                     <div class="row">
                         <div class="col-sm-3 submenu bg-access border border-2">Home</div>
                         <div class="col-sm-3 submenu bg-access border border-2">Região</div>
