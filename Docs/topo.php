@@ -11,7 +11,7 @@
                         <div class="col-sm-3 submenu bg-access border border-2">Home</div>
                         <div class="col-sm-3 submenu bg-access border border-2">Região</div>
                         <div class="col-sm-3 submenu bg-access border border-2">Área</div>
-                        <div class="col-sm-3 submenu bg-access border border-2">Marerial</div>
+                        <div class="col-sm-3 submenu bg-access border border-2">Material</div>
                     </div>
                     <div class="row">
                         <div class="col-sm-3 submenu bg-access border border-2">Reciclador</div>

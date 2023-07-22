@@ -12,7 +12,7 @@
     background-color: darkorange;
     text-align: center;
     line-height: 240px;
-    font-size: 20px;
+    font-size: 10px;
     color: blue;
 
 }
@@ -28,4 +28,8 @@
     text-align: center;
     line-height: 75px;
     font-size: 20px;
+}
+.submenu:hover{
+    background-color: orange;
+    f
 }

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 
-                <h1>Tela de gerenciamento de usuários</h1>
+                <h1>Tela de Cadastramento de Região</h1>
             </div>
         </div>
         <form action="" method="post" class="form-control" onsubmit="return false;" id="frmUsuario"  enctype="multipart/form-data">

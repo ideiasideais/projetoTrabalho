@@ -31,57 +31,57 @@
         <div class="carousel-item active">
           <img src="img/01-plastico.png" alt="Los Angeles" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3 style="color:black">1 Lixo Pástico</h3>
-            <p style="font-size:20pt; color:black; background-color:red">"A natureza também precisa de higiene e respeito, faça dela sua casa".</p>
+            <h3 style="color:red; background-color:white">1 Lixo Pástico</h3>
+            <p style="font-size:20pt; color:black; background-color:yellow">"A natureza também precisa de higiene e respeito, faça dela sua casa".</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/02-aluminio.png" alt="Chicago" class="d-block" style="width:100%">
           <div class="carousel-caption">
             <h3 style="color:black">2 Lixo Vidro</h3>
-            <p style="font-size:20pt; color:blue; background-color:gray">"Se cada um fizer a sua parte, todos se tornarão muito"</p>
+            <p style="font-size:20pt; color:blue">"Se cada um fizer a sua parte, todos se tornarão muito"</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/03-borracha.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
             <h3 style="color:black">3 Borracha Também é produto reciclável</h3>
-            <p style="font-size:20pt; color:blue; background-color:yellow">"A natureza está pedindo socorro, mas poucas pessoas entende a linguagem dela"!</p>
+            <p style="font-size:20pt; color:yellow">"A natureza está pedindo socorro, mas poucas pessoas entende a linguagem dela"!</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/04-borracha.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3 style="color:black; background-color:white">4 Pneus jogados no mar</h3>
-            <p style="font-size:20pt; color:blue; background-color:yellow">"Borracha não serve para ser casa de peixes"</p>
+            <h3 style="color:black">4 Pneus jogados no mar</h3>
+            <p style="font-size:20pt; color:blue">"Borracha não serve para ser casa de peixes"</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/05-borracha.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3 style="color:black">5 Los Angeles</h3>
-            <p style="font-size:20pt; color:blue; background-color:green">We had such a great time in LA!</p>
+            <h3 style="color:black">5 Pneus queimando</h3>
+            <p style="font-size:20pt; color:blue">"Qual a esperança que há para o futuro da nação e do planeta?"</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/06-descartaveis.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3 style="color:black">6 Los Angeles</h3>
-            <p style="font-size:20pt; color:blue; background-color:orange">We had such a great time in LA!</p>
+            <h3 style="color:black">6 Lixo na Praia</h3>
+            <p style="font-size:20pt; color:blue">"No mar é morada de peixes, não lixeira"</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/07-queimadas.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3 style="color:black">7 Los Angeles</h3>
-            <p style="font-size:20pt; color:yellow; background-color:purple">We had such a great time in LA!</p>
+            <h3 style="color:black">7 Queimada de lixo</h3>
+            <p style="font-size:20pt; color:yellow">"Será se o filtro para purificar esse ar será os nossos pulmões?"</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/08-mar.png" alt="New York" class="d-block" style="width:100%">
           <div class="carousel-caption">
-            <h3>8 Los Angeles</h3>
-            <p style="font-size:20pt; color:blue; background-color:gray">We had such a great time in LA!</p>
+            <h3>8 Latinhas no fundo do mar</h3>
+            <p style="font-size:20pt; color:blue">"Seria uma ótima faze da vida se os peixes também aprendessem a reciclar os descartáveis"</p>
           </div>
         </div>
       </div>
