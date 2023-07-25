@@ -10,7 +10,7 @@
                         <div class="col-sm-3 submenu bg-warning text-light border border-2"><a href="frm_home.php">HOME</a></div>
                         <div class="col-sm-3 submenu bg-warning text-light border border-2"><a href="google.com.br">SOBRE</a></div>
                         <div class="col-sm-3 submenu bg-warning text-light border border-2"><a href="google.com.br">QUEM SOMOS</a></div>
-                        <div class="col-sm-3 submenu bg-warning text-light border border-2"><a href="google.com.br">SAIR</a></div>
+                        <div class="col-sm-3 submenu bg-warning text-light border border-2"><a href="frm_login.php">SAIR</a></div>
                     </div>
                     <div class="row">
                         <div class="col-sm-3 submenu bg-access border border-2"><a href="frm_mensageiro.php">Região</a></div>
